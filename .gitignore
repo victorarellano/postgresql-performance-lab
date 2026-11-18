@@ -1,0 +1,28 @@
+# Variables de entorno y credenciales
+.env
+.env.*
+!.env.example
+.pgpass
+pgpass.conf
+*.pem
+*.key
+
+# Datos locales de PostgreSQL
+/pgdata/
+/postgres-data/
+
+# Respaldos de bases de datos
+*.dump
+*.backup
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Configuración local de VS Code
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
