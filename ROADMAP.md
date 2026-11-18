@@ -16,7 +16,7 @@
 
 | ID | Tema | Evidencia esperada | Estado |
 |---|---|---|---|
-| 00 | Ambiente reproducible | Versión, conexión y carga verificadas | ⬜ `Pendiente` |
+| 00 | Ambiente reproducible | Versión, conexión y carga verificadas | 🟨 `En curso` |
 | 01 | EXPLAIN, ANALYZE, BUFFERS | Interpretación de nodos, filas, tiempos y accesos | ⬜ `Pendiente` |
 | 02 | Índices | Comparación de índices simples, compuestos, parciales y de cobertura | ⬜ `Pendiente` |
 | 03 | Consultas | Comparación de JOIN, filtros, agregaciones y ordenamientos | ⬜ `Pendiente` |
@@ -25,4 +25,3 @@
 | 06 | Mantenimiento | Evidencias de VACUUM, autovacuum y almacenamiento | ⬜ `Pendiente` |
 | 07 | Monitoreo | Diagnóstico mediante pg_stat_statements y vistas del sistema | ⬜ `Pendiente` |
 | 08 | Caso integrador | Informe autónomo de diagnóstico y optimización | ⬜ `Pendiente` |
-
