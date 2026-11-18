@@ -3,7 +3,7 @@
 Microaprendizaje experimental para diagnosticar y optimizar PostgreSQL. Orientado a profesionales con experiencia en SQL. Sin calendario rígido.
 
 ## Navegación
-- `AGENTS.md`: protocolo de trabajo.
+- `INSTRUCCIONES.md`: respaldo de las instrucciones configuradas en el proyecto ChatGPT.
 - `METHODOLOGY.md`: procedimiento experimental y cierre.
 - `ROADMAP.md`: módulos y estado.
 - `docs/LEARNING-LOG.md`: registro de sesiones.
