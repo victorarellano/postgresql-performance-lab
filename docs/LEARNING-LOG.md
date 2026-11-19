@@ -27,7 +27,7 @@
 - Evaluación: se valora el control de calidad aunque exige tiempo; única observación de mejora: evitar referencias personales en la documentación técnica.
 - Aprobadas M-001 a M-004: retrospectiva obligatoria, redacción impersonal, separación documental y registro histórico.
 - No se requieren nuevos ejercicios ni evidencias. Ver [retrospectiva 01](RETROSPECTIVES.md).
-- Estado: mejoras aprobadas; pendiente publicación y verificación de los documentos y sincronización de instrucciones del proyecto antes del capítulo 01.
+- Estado: mejoras aprobadas y cambios aplicados al proyecto.
 
 ## Plantilla de sesión
 - Fecha y módulo:

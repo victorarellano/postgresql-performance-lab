@@ -2,7 +2,7 @@
 
 ## R-001 - Capítulo 00: Ambiente reproducible
 
-**Fecha:** 2026-11-19. **Estado:** decisiones aprobadas; publicación y verificación pendientes.
+**Fecha:** 2026-11-19. **Estado:** decisiones aprobadas; publicación y verificación completadas.
 
 ### Aspectos positivos
 
