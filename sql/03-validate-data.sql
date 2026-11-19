@@ -46,6 +46,23 @@ FROM pg_stat_user_tables
 WHERE schemaname = 'lab'
 ORDER BY pg_total_relation_size(relid) DESC;
 
+-- 4. Recopilacion de estadisticas
+
+ANALYZE lab.customers;
+ANALYZE lab.products;
+ANALYZE lab.sales;
+
+-- Verificacion de estadisticas recopiladas
+
+SELECT
+    relname AS table_name,
+    n_live_tup AS estimated_rows,
+    last_analyze,
+    last_autoanalyze
+FROM pg_stat_user_tables
+WHERE schemaname = 'lab'
+ORDER BY relname;
+
 -- 5. Estadisticas de la columna status
 
 SELECT
