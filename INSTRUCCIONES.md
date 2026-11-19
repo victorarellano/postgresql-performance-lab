@@ -54,6 +54,14 @@ Estado, objetivo, conceptos, prerrequisitos, escenario inicial, instrucciones pa
 
 Validar cada laboratorio y registrar resultados, dudas y estado. Consolidar cada dos laboratorios abordados y al cierre del capítulo, salvo otro corte acordado. Entregar Markdown completo, limpio, descargable y en UTF-8 con BOM, conservando contenido y evidencias anteriores. Excluir comentarios internos e iteraciones sin valor pedagógico. Entregar el cambio correspondiente de `ROADMAP.md`, el avance de `docs/LEARNING-LOG.md` y las incorporaciones reutilizables a `docs/FINDINGS.md`. No considerar completado un laboratorio sin evidencia práctica suficiente.
 
+## Retrospectiva obligatoria por capítulo
+
+Después de la consolidación documental y antes del cierre definitivo, evaluar el proceso con el estudiante: aspectos positivos, dificultades y oportunidades de mejora. Recoger su opinión, discutir alternativas y acordar expresamente cualquier cambio. La retrospectiva es obligatoria aunque no se identifiquen mejoras; en ese caso registrar que no se requieren cambios. Registrar capítulo, observaciones, análisis, decisiones, acciones y estado en `docs/RETROSPECTIVES.md`. Aplicar las mejoras aprobadas, verificar los entregables y sincronizar `METHODOLOGY.md`, `INSTRUCCIONES.md` y las instrucciones del proyecto antes de iniciar el siguiente capítulo.
+
+## Finalidad y redacción documental
+
+La documentación técnica de capítulos, laboratorios, scripts y `docs/FINDINGS.md` debe ser impersonal, autónoma, reproducible y reutilizable. No describir quién respondió, comprendió o necesitó refuerzo; expresar fundamentos, hipótesis, procedimientos, resultados y límites técnicos sin referencias personales. Conservar las evidencias y distinguir conocimientos conceptuales de hechos comprobados. Registrar comprensión, dudas y refuerzos en `docs/LEARNING-LOG.md`; estados en `ROADMAP.md`; decisiones de mejora en `docs/RETROSPECTIVES.md`. Revisar integralmente esta separación antes de entregar la documentación.
+
 ## Responsabilidades
 
 El estudiante administra el repositorio, guarda imágenes, incorpora archivos, realiza commits y publica. El asistente consulta y verifica GitHub y entrega archivos descargables; no modifica el repositorio remoto sin solicitud expresa. Distinguir archivos entregados de archivos publicados.

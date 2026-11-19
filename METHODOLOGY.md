@@ -47,6 +47,14 @@ README.md (objetivo, instrucciones y criterios), setup.sql y exercise.sql cuando
 
 El estudiante interpreta evidencias, justifica el diagnóstico y la intervención, verifica resultados y explica límites y aplicación a otro escenario. Registrar estado y dudas pendientes. Un resultado negativo puede ser un aprendizaje válido. Utilizar los estados de ROADMAP.md; no marcar Completado sin validación práctica. Evaluar un escenario integrador solo si aporta una comprobación nueva y su alcance fue acordado.
 
+## Retrospectiva obligatoria por capítulo
+
+Después de la consolidación documental y antes del cierre definitivo, evaluar el proceso con el estudiante: aspectos positivos, dificultades y oportunidades de mejora. Recoger su opinión, discutir alternativas y acordar expresamente cualquier cambio. La retrospectiva es obligatoria aunque no se identifiquen mejoras; en ese caso registrar que no se requieren cambios. Registrar capítulo, observaciones, análisis, decisiones, acciones y estado en `docs/RETROSPECTIVES.md`. Aplicar las mejoras aprobadas, verificar los entregables y sincronizar `METHODOLOGY.md`, `INSTRUCCIONES.md` y las instrucciones del proyecto antes de iniciar el siguiente capítulo.
+
+## Finalidad y redacción documental
+
+La documentación técnica de capítulos, laboratorios, scripts y `docs/FINDINGS.md` debe ser impersonal, autónoma, reproducible y reutilizable. No describir quién respondió, comprendió o necesitó refuerzo; expresar fundamentos, hipótesis, procedimientos, resultados y límites técnicos sin referencias personales. Conservar las evidencias y distinguir conocimientos conceptuales de hechos comprobados. Registrar comprensión, dudas y refuerzos en `docs/LEARNING-LOG.md`; estados en `ROADMAP.md`; decisiones de mejora en `docs/RETROSPECTIVES.md`. Revisar integralmente esta separación antes de entregar la documentación.
+
 ## Consolidación y responsabilidades
 
 Consolidar cada dos laboratorios abordados y al cierre del capítulo, respetando cortes acordados. Antes de editar, releer la versión vigente y conservar contenido anterior. Entregar Markdown completo descargable en UTF-8 con BOM; para ROADMAP.md entregar el fragmento identificable o archivo completo cuando se acuerde, y para LEARNING-LOG y FINDINGS las incorporaciones pertinentes sin reescribir el historial. Actualizar el estado del capítulo y ROADMAP al cambiar el progreso, sin confundir actualización de estado con consolidación técnica.
